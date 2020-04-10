@@ -1228,7 +1228,7 @@ iframe.tumblr_audio_player {
     border-radius: 20px 0 0 20px;
 }
  
-::-webkit-input-placeholder {color: #000;}
+::-webkit-input-placeholder {color: {color:text};}
 :-moz-placeholder {color: inherit; opacity:1;}
 ::-moz-placeholder {color: inherit; opacity:1;}
 :-ms-input-placeholder {color: inherit;}
