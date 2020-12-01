@@ -394,13 +394,13 @@ small,sub,sup {
  
 h1,h2,h3 {
     font-weight: 700;
-    font-size: 2em;
+    font-size: 1.4em;
     color: {color:bold};
 }
  
 h4,h5,h6 {
     font-weight: 700;
-    font-size: 1.8em;
+    font-size: 1.2em;
     color: {color:bold};
 }
  
